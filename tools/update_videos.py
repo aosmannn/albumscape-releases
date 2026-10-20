@@ -25,7 +25,7 @@ RETRY_MISSES_AFTER = dt.timedelta(days=30)
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIST = os.path.join(HERE, "videos.json")
 
-words = lambda s: set(re.findall(r"[a-z0-9']+", (s or "").lower()))
+words = lambda s: {w.strip("'") for w in re.findall(r"[a-z0-9']+", (s or "").lower())} - {""}  # 'Hello' == hello
 
 
 def clean_title(title):
@@ -83,6 +83,10 @@ def _yt_pick(items, track, want_visualizer):
     want_all = _words(clean_title(track.get("title", "")))
     want = want_all - want_artist or want_all
     want_full = _words(track.get("title", "")) - want_artist or want_all  # keeps "(triple j Like A Version)"
+    # triple j's "Like A Version" sessions are covers recorded for radio: their official video is triple j's own
+    # upload ("Artist covers X for Like A Version"), not an artist-channel music video.
+    lav = "like a version" in f"{track.get('title', '')} {track.get('album') or ''}".lower()
+    lav_song = want_all - {"triple", "j", "like", "a", "version"} - want_artist
     best, best_score = None, 0
     for item in items:
         sn = item.get("snippet", {})
@@ -95,6 +99,11 @@ def _yt_pick(items, track, want_visualizer):
         if re.search(r"-\s*topic\s*$", chan_raw, re.I):
             continue  # YouTube's automatic audio-only upload
         channel = _words(chan_raw.replace("VEVO", " vevo").replace("Vevo", " vevo"))
+        if lav:  # for these, only triple j's own upload of this artist's performance of this song counts
+            if (channel == {"triple", "j"} and "like a version" in raw.lower() and want_artist <= title and lav_song <= title
+                    and not (title & (_NOT_THE_VIDEO - {"live", "cover"})) and best_score < 3):
+                best, best_score = item["id"].get("videoId"), 3
+                continue
         if (title & _NOT_THE_VIDEO) - want_all - want_full:
             continue
         core = _yt_song_words(raw, want_artist, False)
