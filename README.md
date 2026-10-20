@@ -4,7 +4,7 @@
 
 <p align="center"><b>Your album art, moving, the moment you step away.</b></p>
 
-<p align="center"><a href="https://github.com/aosmannn/albumscape-releases/releases/latest/download/AlbumscapeSetup.exe"><b>Download for Windows</b></a> · <a href="https://aosmannn.github.io/albumscape-releases/">Website</a></p>
+<p align="center"><a href="https://github.com/aosmannn/albumscape-releases/releases/latest/download/AlbumscapeSetup.exe"><b>Download for Windows</b></a> · <a href="https://albumscape.vercel.app/">Website</a></p>
 
 Albumscape turns your Windows PC into a living album cover. Walk away for a minute, or press Ctrl+Alt+L, and the
 animated artwork of whatever you're playing fills the screen, with the time, the song and its lyrics on top.
