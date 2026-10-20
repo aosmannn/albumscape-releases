@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Albumscape</title>
+  <rect width="64" height="64" rx="12" fill="#13110F"/>
+  <circle cx="48" cy="32" r="14" fill="#0B0A09" stroke="#EDE4D3" stroke-width="1.5"/>
+  <circle cx="48" cy="32" r="9.5" fill="none" stroke="#EDE4D3" stroke-opacity=".35"/>
+  <circle cx="48" cy="32" r="4.5" fill="#E2412F"/>
+  <circle cx="48" cy="32" r="1.1" fill="#13110F"/>
+  <rect x="7" y="14" width="36" height="36" fill="#EDE4D3"/>
+  <rect x="12" y="41" width="13" height="3" fill="#13110F"/>
+</svg>
