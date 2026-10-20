@@ -15,7 +15,8 @@ animated artwork of whatever you're playing fills the screen, with the time, the
 
 - **Real motion art.** Albums with animated covers on Apple Music play them full screen.
 - **Follows your music.** Spotify, your browser or Apple Music. It switches the moment the song changes.
-- **Music videos too.** No motion art? A clip of the song's official music video plays instead, or the sharp cover.
+- **Music videos too.** No motion art? The song's official music video plays instead, in step with the song
+  (full videos for chart songs, a clip for the rest), or the sharp cover.
 - **Lyrics that follow along,** a progress bar, and the album's own colors.
 - **Your lock screen matches,** and an optional animated wallpaper behind your desktop icons.
 - **Good at night.** It dims, then turns your monitor off.
@@ -52,6 +53,8 @@ Have an Apple Developer MusicKit key? You can add it in the setup guide (optiona
 
 ---
 
-Made by [Adam Osman (@aosmannn)](https://github.com/aosmannn). This repository only hosts the installer.
+Made by [Adam Osman (@aosmannn)](https://github.com/aosmannn). This repository hosts the installer and
+`videos.json`, the list of official YouTube music videos for chart songs (video IDs only), updated daily by
+`tools/update_videos.py`.
 Motion artwork and covers come from Apple Music; synced lyrics from [LRCLIB](https://lrclib.net). Motion art is
 read from Apple Music's public web pages, which Apple can change at any time. Not affiliated with Apple.
