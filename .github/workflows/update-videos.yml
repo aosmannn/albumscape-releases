@@ -21,9 +21,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
+      # Genius is asked through Albumscape's lookup service (albumscape.vercel.app/api/genius), which holds the token,
+      # so no secret is needed here. YT_API_KEY is optional: it only covers songs Genius has no verified video for.
       - name: Look up new chart songs (Genius first, YouTube search only for what's left)
         env:
-          GENIUS_TOKEN: ${{ secrets.GENIUS_TOKEN }}
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python tools/update_videos.py
       - name: Save the list

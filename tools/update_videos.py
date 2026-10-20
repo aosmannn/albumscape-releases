@@ -131,6 +131,20 @@ def _yt_pick(items, track, want_visualizer):
     return best if best_score >= 2 else None  # at least the artist's channel, or an "Official ..." upload
 
 
+GENIUS_LOOKUP = "https://albumscape.vercel.app/api/genius"  # Albumscape's lookup service: it holds the Genius token
+
+
+def genius_candidates(track, url=None):
+    """YouTube video ids that Genius lists for the song (no YouTube key, no allowance). [] if Genius doesn't know it.
+    Raises when the service can't be reached or isn't set up, so the caller doesn't remember that as "no video"."""
+    r = HTTP.get(url or GENIUS_LOOKUP, params={"artist": track.get("artist", ""), "title": track.get("title", "")}, timeout=10)
+    if r.status_code in (502, 503):
+        raise RuntimeError(f"video lookup service unavailable ({r.status_code})")
+    r.raise_for_status()
+    body = r.json()
+    return body.get("ids", []) if body.get("found") else []
+
+
 def verify_candidate(track, vid):
     """"video", "visualizer" or None for a candidate video, judged by its real title and channel from YouTube's free
     embed info (oEmbed, no allowance). Applies the same strict rules as the search: the right song, the artist's own
@@ -197,10 +211,12 @@ def genius_direct_ids(artist, title, token):
     return []
 
 
-def find_free(artist, title, token):
-    """{"id", "kind"} from Genius's candidates, each verified for free; None if none passes. Raises on network trouble."""
+def find_free(artist, title, token=None):
+    """{"id", "kind"} from Genius's candidates, each verified for free; None if none passes. Raises on network trouble.
+    With a Genius token it asks Genius directly; without one it asks Albumscape's lookup service (which holds a token)."""
     track = {"artist": main_artist(artist), "title": title}
-    vid, kind = free_video(track, genius_direct_ids(artist, title, token))
+    ids = genius_direct_ids(artist, title, token) if token else genius_candidates(track)
+    vid, kind = free_video(track, ids)
     return {"id": vid, "kind": kind} if vid else None
 
 
@@ -246,8 +262,6 @@ def chart_songs():
 
 def main():
     genius_token, yt_key = os.environ.get("GENIUS_TOKEN"), os.environ.get("YT_API_KEY")
-    if not genius_token and not yt_key:
-        sys.exit("Set GENIUS_TOKEN (a free Genius API token) and/or YT_API_KEY (a YouTube Data API v3 key).")
     data = {"videos": {}}
     if os.path.exists(LIST):
         with open(LIST, encoding="utf-8") as f:
@@ -267,25 +281,34 @@ def main():
     print(f"{len(songs)} chart songs, {len(todo)} to look up (up to {MAX_LOOKUPS}; up to {MAX_YT_SEARCHES} YouTube requests)")
     found = {"genius": 0, "youtube": 0}
     missed = skipped = 0
-    genius_ok, yt_open = bool(genius_token), bool(yt_key)
-    genius_rejected = False
+    token = genius_token or None      # None: ask Albumscape's lookup service instead of Genius directly
+    genius_ok, yt_open, service_down = True, bool(yt_key), False
+    print("Genius: " + ("directly, with the token" if token else "through Albumscape's lookup service"))
     for k, artist, title in todo[:MAX_LOOKUPS]:
         v, source = None, None
-        genius_answered = not genius_token  # nothing to ask counts as "answered"
-        if genius_ok:
+        genius_answered = False
+        for attempt in (1, 2):
+            if not genius_ok:
+                break
             try:
-                v = find_free(artist, title, genius_token)
-                genius_answered = True
-                source = "genius"
+                v = find_free(artist, title, token)
+                genius_answered, source = True, "genius"
                 time.sleep(0.25)  # be gentle with Genius
+                break
             except requests.HTTPError as e:
-                if e.response is not None and e.response.status_code in (401, 403, 429):
-                    print(f"Genius said {e.response.status_code}: not asking it again this run")
-                    genius_ok = False
-                    if e.response.status_code in (401, 403):
-                        genius_rejected = True  # the token is wrong or revoked: make this run fail loudly
+                code = e.response.status_code if e.response is not None else None
+                if code in (401, 403) and token:
+                    print(f"Genius rejected the token ({code}): using Albumscape's lookup service instead")
+                    token = None
+                    continue  # ask again, through the service
+                print(f"Genius said {code}: not asking it again this run")
+                genius_ok = False
+            except RuntimeError as e:   # the lookup service is down or has no token
+                print(f"lookup service unavailable: {e}")
+                genius_ok, service_down = False, True
             except (requests.RequestException, ValueError) as e:
                 print(f"  ? {artist} - {title}: {str(e)[:70]}")
+                break
         yt_answered = not yt_key
         if not v and genius_answered and yt_key and yt_open and yt_requests[0] + 2 <= MAX_YT_SEARCHES:
             try:
@@ -312,9 +335,9 @@ def main():
     total = sum(1 for e in videos.values() if e.get("id"))
     print(f"found {found['genius']} via Genius and {found['youtube']} via YouTube; {missed} have no official video; "
           f"{skipped} will be tried again; the list has {total} videos")
-    if genius_rejected and not found["genius"]:
-        sys.exit("Genius rejected the GENIUS_TOKEN (401/403). Create a new Client Access Token at genius.com/api-clients "
-                 "and set it again: gh secret set GENIUS_TOKEN")
+    if service_down and not found["genius"]:
+        sys.exit("Albumscape's lookup service (albumscape.vercel.app/api/genius) is down or has no Genius token. "
+                 "Add GENIUS_TOKEN in Vercel (vercel env add GENIUS_TOKEN production) and redeploy.")
 
 
 if __name__ == "__main__":
