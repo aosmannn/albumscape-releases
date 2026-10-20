@@ -25,7 +25,7 @@ RETRY_MISSES_AFTER = dt.timedelta(days=30)
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIST = os.path.join(HERE, "videos.json")
 
-NOT_THE_VIDEO = {"lyric", "lyrics", "audio", "visualizer", "visualiser", "live", "reaction", "cover", "remix", "slowed",
+NOT_THE_VIDEO = {"lyric", "lyrics", "audio", "live", "reaction", "cover", "remix", "slowed",
                  "reverb", "sped", "instrumental", "karaoke", "8d", "nightcore", "teaser", "trailer", "snippet",
                  "behind", "dance", "tutorial", "review", "edit"}
 words = lambda s: set(re.findall(r"[a-z0-9']+", (s or "").lower()))
@@ -46,19 +46,19 @@ def video_key(artist, title):
     return f"{norm(main_artist(artist))}|{norm(clean_title(title or ''))}"
 
 
-def find_video(artist, title, key):
-    """The official music video's ID, or None. Same strict rules as the app."""
-    artist = main_artist(artist)
+VISUALIZER = {"visualizer", "visualiser", "visualizr"}
+
+
+def pick(items, artist, title, want_visualizer):
     want_artist, want_title = words(artist), words(clean_title(title))
-    r = requests.get(YT_SEARCH, params={"part": "snippet", "type": "video", "videoEmbeddable": "true",
-                                        "videoCategoryId": "10", "maxResults": 8, "key": key,
-                                        "q": f"{artist} {clean_title(title)} official music video"}, timeout=20)
-    r.raise_for_status()
     best, best_score = None, 0
-    for item in r.json().get("items", []):
+    for item in items:
         sn = item.get("snippet", {})
         raw_title = html.unescape(sn.get("title", ""))
         t = words(raw_title)
+        is_vis = bool(t & VISUALIZER)
+        if is_vis != want_visualizer:
+            continue
         channel = words(html.unescape(sn.get("channelTitle", "")).replace("VEVO", " vevo").replace("Vevo", " vevo"))
         if not want_title <= t or (t & NOT_THE_VIDEO) - want_title:
             continue
@@ -68,11 +68,31 @@ def find_video(artist, title, key):
             a, s = low.find(artist.lower()), low.find(clean_title(title).lower())
             if a < 0 or s < 0 or a > s:
                 continue  # "Other Artist - Song ft. Artist" is a different song
-        score = (3 if by_artist else 0) + (2 if {"official", "video"} <= t else 0) + (1 if "vevo" in channel else 0)
+            if is_vis and "official" not in t:
+                continue  # a fan-made visualizer: only the artist's channel or an "Official" one counts
+        score = (3 if by_artist else 0) + (2 if "official" in t and (is_vis or "video" in t) else 0) + (1 if "vevo" in channel else 0)
         if score > best_score:
             best, best_score = {"id": item["id"].get("videoId"), "title": raw_title,
                                 "channel": html.unescape(sn.get("channelTitle", ""))}, score
     return best if best_score >= 2 else None
+
+
+def find_video(artist, title, key):
+    """The official music video, else the official visualizer: {"id", "kind", ...} or None. Same rules as the app."""
+    artist = main_artist(artist)
+    base = {"part": "snippet", "type": "video", "videoEmbeddable": "true", "videoCategoryId": "10", "maxResults": 8, "key": key}
+    r = requests.get(YT_SEARCH, params=dict(base, q=f"{artist} {clean_title(title)} official music video"), timeout=20)
+    r.raise_for_status()
+    items = r.json().get("items", [])
+    v = pick(items, artist, title, False)
+    if v:
+        return dict(v, kind="video")
+    v = pick(items, artist, title, True)
+    if not v:
+        r = requests.get(YT_SEARCH, params=dict(base, q=f"{artist} {clean_title(title)} official visualizer"), timeout=20)
+        r.raise_for_status()
+        v = pick(r.json().get("items", []), artist, title, True)
+    return dict(v, kind="visualizer") if v else None
 
 
 def main():
@@ -124,7 +144,7 @@ def main():
         if v:
             found += 1
             videos[k] = dict(v, found=today.isoformat())
-            print(f"  + {artist} - {title}: {v['id']} ({v['channel']})")
+            print(f"  + {artist} - {title}: {v['id']} ({v['kind']}, {v['channel']})")
         else:
             videos[k] = {"id": None, "checked": today.isoformat()}
             print(f"  - {artist} - {title}: no official video")
