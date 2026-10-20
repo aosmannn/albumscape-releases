@@ -21,8 +21,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
-      - name: Look up new chart songs on YouTube
+      - name: Look up new chart songs (Genius first, YouTube search only for what's left)
         env:
+          GENIUS_TOKEN: ${{ secrets.GENIUS_TOKEN }}
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python tools/update_videos.py
       - name: Save the list
