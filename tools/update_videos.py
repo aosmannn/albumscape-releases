@@ -25,7 +25,7 @@ RETRY_MISSES_AFTER = dt.timedelta(days=30)
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LIST = os.path.join(HERE, "videos.json")
 
-words = lambda s: {w.strip("'") for w in re.findall(r"[a-z0-9']+", (s or "").lower())} - {""}  # 'Hello' == hello
+words = lambda s: {w.replace("'", "") for w in re.findall(r"[a-z0-9']+", (s or "").lower())} - {""}  # can't == cant, 'Hello' == hello
 
 
 def clean_title(title):
@@ -109,7 +109,9 @@ def _yt_pick(items, track, want_visualizer):
         core = _yt_song_words(raw, want_artist, False)
         if core != want and _yt_song_words(raw, want_artist, True) not in (want, want_full) and core != want_full:
             continue
-        by_artist = want_artist <= channel or (want_artist & channel and "vevo" in channel)
+        squash = lambda x: re.sub(r"[^a-z0-9]", "", x.lower())
+        by_artist = (want_artist <= channel or (want_artist & channel and "vevo" in channel)
+                     or (len(squash(main_artist)) >= 4 and squash(main_artist) in squash(chan_raw)))  # "TravisScottVEVO"
         if not by_artist:
             # someone else's upload: must read "Artist - Song", not "Other Artist - Song ft. Artist"
             low = raw.lower()
