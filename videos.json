@@ -1,4 +1,1041 @@
 {
- "updated": "2026-10-20T20:22:21+00:00",
- "videos": {}
+ "updated": "2026-10-20T20:56:12+00:00",
+ "videos": {
+  "adela|aint in la": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "adela|nicole kidman": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "alex warren|fever dream": {
+   "found": "2026-10-20",
+   "id": "hkUSnrHQJHg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "alex warren|ordinary": {
+   "found": "2026-10-20",
+   "id": "u2ah9tWTkmk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "alyssa grace|bloodstream": {
+   "found": "2026-10-20",
+   "id": "FOJ4A4wixDg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "anotr|talk to you": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "arctic monkeys|do i wanna know": {
+   "found": "2026-10-20",
+   "id": "bpOSxM0rNPM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ariana grande|hate that i made you love me": {
+   "found": "2026-10-20",
+   "id": "82-jTNka3uc",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ariana grande|into you": {
+   "found": "2026-10-20",
+   "id": "1ekZEVeXwek",
+   "kind": "video",
+   "source": "genius"
+  },
+  "arjan dhillon|said done": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "ashe|stop the wedding": {
+   "found": "2026-10-20",
+   "id": "DLV8FpyxZPQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "audrey hobert|sue me": {
+   "found": "2026-10-20",
+   "id": "ZqgKKbg2Ja8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "bad bunny|yonaguni": {
+   "found": "2026-10-20",
+   "id": "doLMt10ytHY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "bebe rexha|new religion": {
+   "found": "2026-10-20",
+   "id": "366CV87TguE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "bella kay|iloveitiloveitiloveit": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "benson boone|beautiful things": {
+   "found": "2026-10-20",
+   "id": "Oa_RSwwpPaA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "bryson tiller|dont": {
+   "found": "2026-10-20",
+   "id": "d7cVLE4SaN0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "cameron whitcomb|kingdom of fear": {
+   "found": "2026-10-20",
+   "id": "63k0kNuCPak",
+   "kind": "video",
+   "source": "genius"
+  },
+  "chris stapleton|tennessee whiskey": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "cloonee|good girl": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "cody johnson|take me back": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "coldplay|viva la vida": {
+   "found": "2026-10-20",
+   "id": "dvgZkm1xWPE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "comehelpglo|onsra": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "dave|raindance": {
+   "found": "2026-10-20",
+   "id": "SOJpE1KMUbo",
+   "kind": "video",
+   "source": "genius"
+  },
+  "dj khaled|wild thoughts": {
+   "found": "2026-10-20",
+   "id": "fyaI4-5849w",
+   "kind": "video",
+   "source": "genius"
+  },
+  "don toliver|e85": {
+   "found": "2026-10-20",
+   "id": "rVD-zV6ctoM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|best i ever had": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "drake|cold shoulder": {
+   "found": "2026-10-20",
+   "id": "AzUzdpHSUTo",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|controlla": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "drake|gods plan": {
+   "found": "2026-10-20",
+   "id": "xpVfcZ0ZcFM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|headlines": {
+   "found": "2026-10-20",
+   "id": "cimoNqiulUE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|hold on were going home": {
+   "found": "2026-10-20",
+   "id": "GxgqpCdOKak",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|im spent": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "drake|janice stfu": {
+   "found": "2026-10-20",
+   "id": "SD4yRDY9mek",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|knife talk": {
+   "found": "2026-10-20",
+   "id": "XqpQpt_cmhE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|marvins room": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "drake|money in the grave": {
+   "found": "2026-10-20",
+   "id": "R0ykLlhg0AQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|passionfruit": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "drake|quebec": {
+   "found": "2026-10-20",
+   "id": "y56D2WIeKxg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|solar eclipse": {
+   "found": "2026-10-20",
+   "id": "vBk30V8AukM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|wants and needs": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "dua lipa|new rules": {
+   "found": "2026-10-20",
+   "id": "k2qgadSvNyU",
+   "kind": "video",
+   "source": "genius"
+  },
+  "dua lipa|training season": {
+   "found": "2026-10-20",
+   "id": "ZjBZ8MUnB0E",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ed sheeran|castle on the hill": {
+   "found": "2026-10-20",
+   "id": "K0ibBPhiaG0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ed sheeran|perfect": {
+   "found": "2026-10-20",
+   "id": "2Vv-BfVoq4g",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ed sheeran|shape of you": {
+   "found": "2026-10-20",
+   "id": "JGwWNGJdvx8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ella langley|be her": {
+   "found": "2026-10-20",
+   "id": "Dg47eNL_Usw",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ella langley|choosin texas": {
+   "found": "2026-10-20",
+   "id": "nUsrYVxrDwI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ella langley|i cant love you anymore": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "ella langley|werent for the wind": {
+   "found": "2026-10-20",
+   "id": "U4NPZi2b0aQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fleetwood mac|dreams": {
+   "found": "2026-10-20",
+   "id": "Y3ywicffOj4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fleetwood mac|the chain": {
+   "found": "2026-10-20",
+   "id": "kBYHwH1Vb-c",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fontaines d c|demolition": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|happy for you": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|intimate": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|japan": {
+   "found": "2026-10-20",
+   "id": "GPNbnromGgk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fontaines d c|marianne": {
+   "found": "2026-10-20",
+   "id": "lWNxWy012Ro",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fontaines d c|mimesis": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|one man": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|six shot morning": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "fontaines d c|tongue": {
+   "found": "2026-10-20",
+   "id": "5OsIwKHppho",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fontaines d c|where is gone": {
+   "found": "2026-10-20",
+   "id": "JxS3kEhO4zk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fontaines d c|you miss me": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "future|712pm": {
+   "found": "2026-10-20",
+   "id": "G6xgMW7U0aY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "future|im dat n a": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "future|like me": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "future|like that": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "future|march madness": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "future|stick talk": {
+   "found": "2026-10-20",
+   "id": "MXGORPXI6QQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "future|wait for u": {
+   "found": "2026-10-20",
+   "id": "rP09GUQFDFk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "gracie abrams|thats so true": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "harry styles|american girls": {
+   "found": "2026-10-20",
+   "id": "o6jQo3-iCao",
+   "kind": "video",
+   "source": "genius"
+  },
+  "harry styles|coming up roses": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "harry styles|sign of the times": {
+   "found": "2026-10-20",
+   "id": "qN4ooNx77u0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "hugel|movin to the sun": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "huntr|golden": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "j cole|power trip": {
+   "found": "2026-10-20",
+   "id": "7AjD7nKiUQ4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "jamie miller|babydoll": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "jhene aiko|so good": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "justin bieber|beauty and a beat": {
+   "found": "2026-10-20",
+   "id": "Ys7-6_t7OEQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "justin bieber|daisies": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "karan aujla|ashke": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "karan aujla|straight up": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "karol g|bby wow": {
+   "found": "2026-10-20",
+   "id": "fRIhCiUVaKs",
+   "kind": "visualizer",
+   "source": "genius"
+  },
+  "kendrick lamar|bitch dont kill my vibe": {
+   "found": "2026-10-20",
+   "id": "GF8aaTu2kg0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kendrick lamar|not like us": {
+   "found": "2026-10-20",
+   "id": "H58vbez_m4E",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kendrick lamar|poetic justice": {
+   "found": "2026-10-20",
+   "id": "yyr2gEouEMM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kettama|think of you": {
+   "found": "2026-10-20",
+   "id": "d2iWMT9lBb4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kodak black|no flockin": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "koe wetzel|jaded": {
+   "found": "2026-10-20",
+   "id": "X9MDdMhcZVU",
+   "kind": "visualizer",
+   "source": "genius"
+  },
+  "lil baby|dead fresh": {
+   "found": "2026-10-20",
+   "id": "PXxbEfhtDiM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|freestyle": {
+   "found": "2026-10-20",
+   "id": "MHryuYVyHhk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|frozen": {
+   "found": "2026-10-20",
+   "id": "N3f7OLt-WvY",
+   "kind": "visualizer",
+   "source": "genius"
+  },
+  "lil baby|how it feels": {
+   "found": "2026-10-20",
+   "id": "BAsRTTO8L2k",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|in a minute": {
+   "found": "2026-10-20",
+   "id": "4F_vcZ6KD9Q",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|low down": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "lil baby|right on": {
+   "found": "2026-10-20",
+   "id": "S5xQmaUV7ZA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|sum 2 prove": {
+   "found": "2026-10-20",
+   "id": "xOjy0tL5EuA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "luke combs|be by you": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "luke combs|beautiful crazy": {
+   "found": "2026-10-20",
+   "id": "rItv9i6c7AY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "luke combs|fast car": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "luke combs|she got the best of me": {
+   "found": "2026-10-20",
+   "id": "a2a9fgPI_PI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "luke combs|sleepless in a hotel room": {
+   "found": "2026-10-20",
+   "id": "qCbFhjLU-aM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "luke combs|where the wild things are": {
+   "found": "2026-10-20",
+   "id": "aoJwvnDuAR0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "mac miller|cinderella": {
+   "found": "2026-10-20",
+   "id": "FFamEq1PilQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "michael jackson|billie jean": {
+   "found": "2026-10-20",
+   "id": "Zi_XLOBDo_Y",
+   "kind": "video",
+   "source": "genius"
+  },
+  "michael jackson|thriller 7": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|been by now": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|cowgirls": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|dont we": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|im the problem": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|just in case": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|last night": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|last thing you need": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|thinkin bout me": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|wasted on you": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|what i want": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "morgan wallen|you proof": {
+   "found": "2026-10-20",
+   "id": "3CkLMG5NwUg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "noah kahan|doors": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "noah kahan|orbiter": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "noah kahan|stick season": {
+   "found": "2026-10-20",
+   "id": "JKrDdsgXuso",
+   "kind": "video",
+   "source": "genius"
+  },
+  "noah kahan|the great divide": {
+   "found": "2026-10-20",
+   "id": "SKs80r2Lp34",
+   "kind": "video",
+   "source": "genius"
+  },
+  "noah kahan|willing and able": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "oasis|dont look back in anger": {
+   "found": "2026-10-20",
+   "id": "YZG7z4FOn0g",
+   "kind": "video",
+   "source": "genius"
+  },
+  "oasis|wonderwall": {
+   "found": "2026-10-20",
+   "id": "vU05Eksc_iM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia dean|a couple minutes": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "olivia dean|man i need": {
+   "found": "2026-10-20",
+   "id": "oIv_Y2RPQ_A",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia dean|nice to each other": {
+   "found": "2026-10-20",
+   "id": "VI0NDsh2b8k",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia dean|so easy": {
+   "found": "2026-10-20",
+   "id": "3sur4BmjQt8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia rodrigo|deja vu": {
+   "found": "2026-10-20",
+   "id": "cii6ruuycQA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia rodrigo|drop dead": {
+   "found": "2026-10-20",
+   "id": "78wrful9cVU",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia rodrigo|expectations": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "olivia rodrigo|honeybee": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "olivia rodrigo|maggots for brains": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "olivia rodrigo|stupid song": {
+   "found": "2026-10-20",
+   "id": "Rt9tW3cMLhI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "olivia rodrigo|the cure": {
+   "found": "2026-10-20",
+   "id": "B402rKl4bUg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "p nk|just give me a reason": {
+   "found": "2026-10-20",
+   "id": "OpQFFLBMEPI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "post malone|i had some help": {
+   "found": "2026-10-20",
+   "id": "4QIZE708gJ4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "prospa|free your mind": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "raye|where is my husband": {
+   "found": "2026-10-20",
+   "id": "rK5TyISxZ_M",
+   "kind": "video",
+   "source": "genius"
+  },
+  "rod wave|dope girl": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "sam fender|rein me in": {
+   "found": "2026-10-20",
+   "id": "3triLkS0nq4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "season 25|shottas": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "shaboozey|a bar song": {
+   "found": "2026-10-20",
+   "id": "t7bQwwqW-Hc",
+   "kind": "visualizer",
+   "source": "genius"
+  },
+  "shakira|dai dai": {
+   "found": "2026-10-20",
+   "id": "fcnDmrtj6Sk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sidhu moose wala|kaali hoodie": {
+   "found": "2026-10-20",
+   "id": "-zvixJnZuUU",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sienna spiro|die on this hill": {
+   "found": "2026-10-20",
+   "id": "5RNy_1odv20",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sienna spiro|great expectation": {
+   "found": "2026-10-20",
+   "id": "B452TVVco2Q",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sienna spiro|pure": {
+   "found": "2026-10-20",
+   "id": "jaCxgxTScjc",
+   "kind": "visualizer",
+   "source": "genius"
+  },
+  "silva bumpa|on 2nite": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "sombr|12 to 12": {
+   "found": "2026-10-20",
+   "id": "cZgUiR31m-Y",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sombr|back to friends": {
+   "found": "2026-10-20",
+   "id": "c8zq4kAn_O0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sombr|homewrecker": {
+   "found": "2026-10-20",
+   "id": "mQezde_qeXw",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sombr|my body isnt ready": {
+   "found": "2026-10-20",
+   "id": "ofywN3NgGqY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "stella lefty|boston": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "summer walker|body": {
+   "found": "2026-10-20",
+   "id": "PY9HTSBXE8s",
+   "kind": "video",
+   "source": "genius"
+  },
+  "summer walker|girls need love": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "sza|30 for 30": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "sza|broken clocks": {
+   "found": "2026-10-20",
+   "id": "zVc-K1kKkVk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sza|snooze": {
+   "found": "2026-10-20",
+   "id": "LDY_XyxBu8A",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tame impala|loser": {
+   "found": "2026-10-20",
+   "id": "s3a4OQR-10M",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tate mcrae|greedy": {
+   "found": "2026-10-20",
+   "id": "To4SWGZkEPk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tate mcrae|housewife": {
+   "found": "2026-10-20",
+   "id": "DPEodkHzH-s",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tate mcrae|just keep watching": {
+   "found": "2026-10-20",
+   "id": "dpvQqmX6SUI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tate mcrae|sports car": {
+   "found": "2026-10-20",
+   "id": "7InTkBxPtK4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tate mcrae|tit for tat": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "taylor swift|babylon": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "taylor swift|i knew it i knew you": {
+   "found": "2026-10-20",
+   "id": "hDU4GB1PTxc",
+   "kind": "video",
+   "source": "genius"
+  },
+  "taylor swift|opalite": {
+   "found": "2026-10-20",
+   "id": "1FVF-9KQiPo",
+   "kind": "video",
+   "source": "genius"
+  },
+  "taylor swift|patient zero": {
+   "found": "2026-10-20",
+   "id": "mw3kSNIxjqo",
+   "kind": "video",
+   "source": "genius"
+  },
+  "taylor swift|pink clouding": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "taylor swift|the fate of ophelia": {
+   "found": "2026-10-20",
+   "id": "ko70cExuzZM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "teddy swims|lose control": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "the goo goo dolls|iris": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "the killers|mr brightside": {
+   "found": "2026-10-20",
+   "id": "gGdGFtwCNBE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "the kooks|naive": {
+   "found": "2026-10-20",
+   "id": "jkaMiaRLgvY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "the neighbourhood|sweater weather": {
+   "found": "2026-10-20",
+   "id": "GCdwKhTtNNw",
+   "kind": "video",
+   "source": "genius"
+  },
+  "the weeknd|wicked games": {
+   "found": "2026-10-20",
+   "id": "O1OTWCd40bc",
+   "kind": "video",
+   "source": "genius"
+  },
+  "thekidszn|impulsive": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "travis scott|goosebumps": {
+   "found": "2026-10-20",
+   "id": "Dst9gZkq1a8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "whiskey myers|broken window serenade": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "white noise therapy|white noise 3 hour long": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "youngboy never broke again|kacey talk": {
+   "found": "2026-10-20",
+   "id": "0C80BSgjb8M",
+   "kind": "video",
+   "source": "genius"
+  },
+  "youngboy never broke again|now who": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "youngboy never broke again|vette motors": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|28": {
+   "found": "2026-10-20",
+   "id": "wJO0IoWY4t4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "zach bryan|backwards": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|burn burn burn": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|dog days": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|i remember everything": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|is the blue tangled in you": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|lies": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|lodi when": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|oklahoma smokeshow": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|pink skies": {
+   "found": "2026-10-20",
+   "id": "fs49xFmmHCo",
+   "kind": "video",
+   "source": "genius"
+  },
+  "zach bryan|plainsman": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|revival": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|robot killed the working man": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|something in the orange": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zach bryan|youll get by": {
+   "checked": "2026-10-20",
+   "id": null
+  },
+  "zara larsson|lush life": {
+   "found": "2026-10-20",
+   "id": "tD4HCZe-tew",
+   "kind": "video",
+   "source": "genius"
+  },
+  "zara larsson|midnight sun": {
+   "found": "2026-10-20",
+   "id": "uvY8fdgezLQ",
+   "kind": "video",
+   "source": "genius"
+  }
+ }
 }
