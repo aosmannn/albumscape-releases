@@ -268,6 +268,7 @@ def main():
     found = {"genius": 0, "youtube": 0}
     missed = skipped = 0
     genius_ok, yt_open = bool(genius_token), bool(yt_key)
+    genius_rejected = False
     for k, artist, title in todo[:MAX_LOOKUPS]:
         v, source = None, None
         genius_answered = not genius_token  # nothing to ask counts as "answered"
@@ -281,6 +282,8 @@ def main():
                 if e.response is not None and e.response.status_code in (401, 403, 429):
                     print(f"Genius said {e.response.status_code}: not asking it again this run")
                     genius_ok = False
+                    if e.response.status_code in (401, 403):
+                        genius_rejected = True  # the token is wrong or revoked: make this run fail loudly
             except (requests.RequestException, ValueError) as e:
                 print(f"  ? {artist} - {title}: {str(e)[:70]}")
         yt_answered = not yt_key
@@ -309,6 +312,9 @@ def main():
     total = sum(1 for e in videos.values() if e.get("id"))
     print(f"found {found['genius']} via Genius and {found['youtube']} via YouTube; {missed} have no official video; "
           f"{skipped} will be tried again; the list has {total} videos")
+    if genius_rejected and not found["genius"]:
+        sys.exit("Genius rejected the GENIUS_TOKEN (401/403). Create a new Client Access Token at genius.com/api-clients "
+                 "and set it again: gh secret set GENIUS_TOKEN")
 
 
 if __name__ == "__main__":
