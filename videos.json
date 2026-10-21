@@ -1,6 +1,10 @@
 {
- "updated": "2026-10-20T20:56:12+00:00",
+ "updated": "2026-10-21T12:56:37+00:00",
  "videos": {
+  "achiote|forestis": {
+   "checked": "2026-10-21",
+   "id": null
+  },
   "adela|aint in la": {
    "checked": "2026-10-20",
    "id": null
@@ -29,6 +33,10 @@
   },
   "anotr|talk to you": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "arco|astragal": {
+   "checked": "2026-10-21",
    "id": null
   },
   "arctic monkeys|do i wanna know": {
@@ -84,6 +92,12 @@
   "benson boone|beautiful things": {
    "found": "2026-10-20",
    "id": "Oa_RSwwpPaA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "billie eilish|ocean eyes": {
+   "found": "2026-10-21",
+   "id": "viimfQi_pUw",
    "kind": "video",
    "source": "genius"
   },
@@ -401,6 +415,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "jade|angel of my dreams": {
+   "found": "2026-10-21",
+   "id": "UEc-oy93lf8",
+   "kind": "video",
+   "source": "genius"
+  },
   "jamie miller|babydoll": {
    "checked": "2026-10-20",
    "id": null
@@ -421,6 +441,10 @@
   },
   "karan aujla|ashke": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "karan aujla|aujla szn": {
+   "checked": "2026-10-21",
    "id": null
   },
   "karan aujla|straight up": {
@@ -465,6 +489,18 @@
    "found": "2026-10-20",
    "id": "X9MDdMhcZVU",
    "kind": "visualizer",
+   "source": "genius"
+  },
+  "lady gaga|die with a smile": {
+   "found": "2026-10-21",
+   "id": "kPa7bsKwL-c",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lewis capaldi|someone you loved": {
+   "found": "2026-10-21",
+   "id": "zABLecsR5UE",
+   "kind": "video",
    "source": "genius"
   },
   "lil baby|dead fresh": {
@@ -717,6 +753,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "radiohead|creep": {
+   "found": "2026-10-21",
+   "id": "XFkzRNyygfk",
+   "kind": "video",
+   "source": "genius"
+  },
   "raye|where is my husband": {
    "found": "2026-10-20",
    "id": "rK5TyISxZ_M",
@@ -805,6 +847,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "steve lacy|the feeling": {
+   "found": "2026-10-21",
+   "id": "Qw20tg1v7Fc",
+   "kind": "video",
+   "source": "genius"
+  },
   "summer walker|body": {
    "found": "2026-10-20",
    "id": "PY9HTSBXE8s",
@@ -822,6 +870,12 @@
   "sza|broken clocks": {
    "found": "2026-10-20",
    "id": "zVc-K1kKkVk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sza|love galore": {
+   "found": "2026-10-21",
+   "id": "hHXfCOjb3fk",
    "kind": "video",
    "source": "genius"
   },
@@ -947,6 +1001,10 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "white noise|white noise for babies": {
+   "checked": "2026-10-21",
+   "id": null
+  },
   "youngboy never broke again|kacey talk": {
    "found": "2026-10-20",
    "id": "0C80BSgjb8M",
@@ -956,6 +1014,18 @@
   "youngboy never broke again|now who": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "youngboy never broke again|untouchable": {
+   "found": "2026-10-21",
+   "id": "ipM9SkIkwCY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "youngboy never broke again|valuable pain": {
+   "found": "2026-10-21",
+   "id": "jWu_GqHxmWQ",
+   "kind": "video",
+   "source": "genius"
   },
   "youngboy never broke again|vette motors": {
    "checked": "2026-10-20",
