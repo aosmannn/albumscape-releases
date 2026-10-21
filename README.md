@@ -39,6 +39,29 @@ That's it. **Play a song** in Spotify, Apple Music or a browser, then press **Ct
 - **Nothing playing?** Your recent albums fill the screen as a grid.
 - **Optional extras:** the same art behind your desktop icons, a lock screen that matches the album, and a bedtime when your PC goes to sleep.
 
+## See it
+
+| | |
+| --- | --- |
+| ![Yeat, 2 Alivë (Geëk Pack)](media/demo-1.gif) | ![Ken Carson, A Great Chaos](media/demo-2.gif) |
+| *Yeat, 2 Alivë (Geëk Pack)* | *Ken Carson, A Great Chaos* |
+| ![Travis Scott, UTOPIA](media/demo-3.gif) | ![Lil Uzi Vert, Luv Is Rage 2](media/demo-4.gif) |
+| *Travis Scott, UTOPIA* | *Lil Uzi Vert, Luv Is Rage 2* |
+| ![Playing, with lyrics](media/playing.jpg) | ![Paused](media/paused.jpg) |
+| *Playing, with lyrics* | *Paused* |
+
+## Watch it with sound
+
+Recorded on a real PC with the song playing. Click a preview to open the clip with sound.
+
+| Screensaver | Screensaver |
+| --- | --- |
+| [![Protect, Fall Guys: music video with synced lyrics](media/clips/protect-fall-guys-saver.gif)](media/clips/protect-fall-guys-saver.mp4) | [![Juice WRLD, World Tour (Aquafina): music video](media/clips/juice-wrld-world-tour-aquafina-saver.gif)](media/clips/juice-wrld-world-tour-aquafina-saver.mp4) |
+| *Protect, "Fall Guys": music video with synced lyrics* | *Juice WRLD, "World Tour (Aquafina)": music video* |
+| **Desktop wallpaper** | **Screensaver** |
+| [![Alvvays, Adult Diversion: music video as the desktop wallpaper](media/clips/alvvays-adult-diversion-desktop.gif)](media/clips/alvvays-adult-diversion-desktop.mp4) | [![Quiet Light, You Say I Love You: cover with lyrics](media/clips/quiet-light-you-say-i-love-you-saver.gif)](media/clips/quiet-light-you-say-i-love-you-saver.mp4) |
+| *Alvvays, "Adult Diversion": the music video behind the desktop icons* | *Quiet Light, "You Say I Love You": cover with lyrics* |
+
 ## Keys while it's showing
 
 | Key | What it does |
