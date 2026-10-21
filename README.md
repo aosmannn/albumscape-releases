@@ -33,9 +33,10 @@ That's it. **Play a song** in Spotify, Apple Music or a browser, then press **Ct
 ## What it does
 
 - **Animated album art.** Albums that have moving covers on Apple Music play them full screen.
-- **Music videos.** No moving cover? The song's official music video (or official visualizer) plays instead, in step with the song. Otherwise you get the sharp album cover.
+- **Music videos.** The song's official music video (or official visualizer) plays in full, in step with the song, before the album's motion art. Skip ahead and it crossfades to the new spot. No video? You get the motion art or the sharp album cover.
 - **Lyrics** that follow the song, a progress bar, and the album's own colors.
-- **Everything follows your music.** Skip a track and the screen changes with it.
+- **Everything follows your music.** Skip a track and the screen changes with it. If a YouTube tab is open too, the song you're actually playing wins.
+- **Nothing playing?** Your recent albums fill the screen as a grid.
 - **Optional extras:** the same art behind your desktop icons, a lock screen that matches the album, and a bedtime when your PC goes to sleep.
 
 ## Keys while it's showing
@@ -46,6 +47,7 @@ That's it. **Play a song** in Spotify, Apple Music or a browser, then press **Ct
 | **Space** | Play / pause |
 | **← / →** | Previous / next song |
 | **L** | Lyrics on / off |
+| **Ctrl + Alt + X** | Wrong video? Never show it again |
 | Mouse or any other key | Close it |
 
 ## Change anything later
@@ -64,7 +66,8 @@ Open **Start menu → Albumscape Settings**. Everything is a switch or a dropdow
 | Nothing shows when I press Ctrl + Alt + L | Check that a song is playing on **this PC** (Spotify, Apple Music or a browser). Music playing on your phone isn't visible to Windows. |
 | It shows the cover but no video | Not every song has a music video. Songs that do may take a few seconds to appear the first time. |
 | The desktop wallpaper isn't moving | Close other wallpaper apps (like Wallpaper Engine), then turn **Animated wallpaper** on in Settings. |
-| It put my PC to sleep | Turn off or change **Put the PC to sleep at** in Settings. |
+| It put my PC to sleep | That's the bedtime in Settings: it waits until you've stopped using the PC and nothing is playing. Turn off or change **Put the PC to sleep at**. |
+| The wrong video plays | Press **Ctrl + Alt + X**. That video is never shown for that song again. |
 
 **Updates** install themselves in the background. **To remove it:** Windows Settings → Apps → Installed apps → Albumscape → Uninstall. Your previous screensaver and lock screen picture come back.
 
