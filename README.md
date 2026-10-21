@@ -36,7 +36,9 @@ That's it. **Play a song** in Spotify, Apple Music or a browser, then press **Ct
 - **Music videos.** The song's official music video (or official visualizer) plays in full, in step with the song, before the album's motion art. Skip ahead and it crossfades to the new spot. No video? You get the motion art or the sharp album cover.
 - **Lyrics** that follow the song, a progress bar, and the album's own colors.
 - **Everything follows your music.** Skip a track and the screen changes with it. If a YouTube tab is open too, the song you're actually playing wins.
-- **Nothing playing?** Your recent albums fill the screen as a grid.
+- **Nothing playing?** Your albums' moving covers play one after another (or your recent albums fill the screen), with **music news** from your artists: new singles and albums, countdowns to albums that aren't out yet, and new official videos.
+- **Coming soon.** Play a single from an album that isn't out yet and the screen says when the album drops.
+- **Last.fm (optional).** Type your username in Settings and the shuffle and news follow your real listening. No login, no key.
 - **Optional extras:** the same art behind your desktop icons, a lock screen that matches the album, and a bedtime when your PC goes to sleep.
 
 ## See it
@@ -70,6 +72,7 @@ Recorded on a real PC with the song playing. Click a preview to open the clip wi
 | **Space** | Play / pause |
 | **← / →** | Previous / next song |
 | **L** | Lyrics on / off |
+| **I** | Song info on / off (just the art and the clock) |
 | **Ctrl + Alt + X** | Wrong video? Never show it again |
 | Mouse or any other key | Close it |
 
