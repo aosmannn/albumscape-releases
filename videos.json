@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T12:56:37+00:00",
+ "updated": "2026-10-22T12:58:40+00:00",
  "videos": {
   "achiote|forestis": {
    "checked": "2026-10-21",
@@ -462,6 +462,10 @@
    "id": "GF8aaTu2kg0",
    "kind": "video",
    "source": "genius"
+  },
+  "kendrick lamar|money trees": {
+   "checked": "2026-10-22",
+   "id": null
   },
   "kendrick lamar|not like us": {
    "found": "2026-10-20",
