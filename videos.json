@@ -1,6 +1,10 @@
 {
- "updated": "2026-10-23T12:37:25+00:00",
+ "updated": "2026-10-24T12:01:56+00:00",
  "videos": {
+  "ac dc|thunderstruck": {
+   "checked": "2026-10-24",
+   "id": null
+  },
   "achiote|forestis": {
    "checked": "2026-10-21",
    "id": null
@@ -89,6 +93,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "belly gang kushington|wtf goin": {
+   "found": "2026-10-24",
+   "id": "xxFjwI1qYmc",
+   "kind": "video",
+   "source": "genius"
+  },
   "benson boone|beautiful things": {
    "found": "2026-10-20",
    "id": "Oa_RSwwpPaA",
@@ -104,6 +114,12 @@
   "bryson tiller|dont": {
    "found": "2026-10-20",
    "id": "d7cVLE4SaN0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "calvin harris|one kiss": {
+   "found": "2026-10-24",
+   "id": "DkeiKbqa02g",
    "kind": "video",
    "source": "genius"
   },
@@ -140,6 +156,10 @@
    "id": "SOJpE1KMUbo",
    "kind": "video",
    "source": "genius"
+  },
+  "disco lines|no broke boys": {
+   "checked": "2026-10-24",
+   "id": null
   },
   "dj khaled|wild thoughts": {
    "found": "2026-10-20",
@@ -224,6 +244,12 @@
   "drake|ran to atlanta": {
    "found": "2026-10-23",
    "id": "ipOSrQNrp1U",
+   "kind": "video",
+   "source": "genius"
+  },
+  "drake|shabang": {
+   "found": "2026-10-24",
+   "id": "MoR47PedfaU",
    "kind": "video",
    "source": "genius"
   },
@@ -352,6 +378,12 @@
   "fontaines d c|you miss me": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "fuerza regida|marlboro rojo": {
+   "found": "2026-10-24",
+   "id": "ddkbVYutRXA",
+   "kind": "video",
+   "source": "genius"
   },
   "future|712pm": {
    "found": "2026-10-20",
@@ -559,6 +591,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "lil wayne|love me": {
+   "found": "2026-10-24",
+   "id": "KY44zvhWhp4",
+   "kind": "video",
+   "source": "genius"
+  },
   "luke combs|be by you": {
    "checked": "2026-10-20",
    "id": null
@@ -594,6 +632,12 @@
   "mac miller|cinderella": {
    "found": "2026-10-20",
    "id": "FFamEq1PilQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "metallica|enter sandman": {
+   "found": "2026-10-24",
+   "id": "CD-E-LDc384",
    "kind": "video",
    "source": "genius"
   },
@@ -778,6 +822,12 @@
   "raye|where is my husband": {
    "found": "2026-10-20",
    "id": "rK5TyISxZ_M",
+   "kind": "video",
+   "source": "genius"
+  },
+  "rihanna|we found love": {
+   "found": "2026-10-24",
+   "id": "tg00YEETFzg",
    "kind": "video",
    "source": "genius"
   },
@@ -993,6 +1043,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "the weeknd|blinding lights": {
+   "found": "2026-10-24",
+   "id": "4NRXx6U8ABQ",
+   "kind": "video",
+   "source": "genius"
+  },
   "the weeknd|wicked games": {
    "found": "2026-10-20",
    "id": "O1OTWCd40bc",
@@ -1019,6 +1075,10 @@
   },
   "white noise|white noise for babies": {
    "checked": "2026-10-21",
+   "id": null
+  },
+  "young thug|digits": {
+   "checked": "2026-10-24",
    "id": null
   },
   "youngboy never broke again|kacey talk": {
