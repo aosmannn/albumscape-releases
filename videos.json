@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:01:56+00:00",
+ "updated": "2026-10-25T12:35:49+00:00",
  "videos": {
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
@@ -110,6 +110,10 @@
    "id": "viimfQi_pUw",
    "kind": "video",
    "source": "genius"
+  },
+  "bobby boris pickett|monster mash": {
+   "checked": "2026-10-25",
+   "id": null
   },
   "bryson tiller|dont": {
    "found": "2026-10-20",
@@ -263,6 +267,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "dua lipa|levitating": {
+   "found": "2026-10-25",
+   "id": "N000qglmmY0",
+   "kind": "video",
+   "source": "genius"
+  },
   "dua lipa|new rules": {
    "found": "2026-10-20",
    "id": "k2qgadSvNyU",
@@ -278,6 +288,12 @@
   "ed sheeran|castle on the hill": {
    "found": "2026-10-20",
    "id": "K0ibBPhiaG0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ed sheeran|galway girl": {
+   "found": "2026-10-25",
+   "id": "87gWaABqGYs",
    "kind": "video",
    "source": "genius"
   },
@@ -467,6 +483,10 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "journey|dont stop believin": {
+   "checked": "2026-10-25",
+   "id": null
+  },
   "justin bieber|beauty and a beat": {
    "found": "2026-10-20",
    "id": "Ys7-6_t7OEQ",
@@ -591,6 +611,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "lil wayne|lollipop": {
+   "checked": "2026-10-25",
+   "id": null
+  },
   "lil wayne|love me": {
    "found": "2026-10-24",
    "id": "KY44zvhWhp4",
@@ -644,6 +668,12 @@
   "michael jackson|billie jean": {
    "found": "2026-10-20",
    "id": "Zi_XLOBDo_Y",
+   "kind": "video",
+   "source": "genius"
+  },
+  "michael jackson|smooth criminal": {
+   "found": "2026-10-25",
+   "id": "sFvENQBc-F8",
    "kind": "video",
    "source": "genius"
   },
@@ -819,11 +849,21 @@
    "kind": "video",
    "source": "genius"
   },
+  "ray parker jr|ghostbusters": {
+   "found": "2026-10-25",
+   "id": "Fe93CLbHjxQ",
+   "kind": "video",
+   "source": "genius"
+  },
   "raye|where is my husband": {
    "found": "2026-10-20",
    "id": "rK5TyISxZ_M",
    "kind": "video",
    "source": "genius"
+  },
+  "rihanna|dont stop the music": {
+   "checked": "2026-10-25",
+   "id": null
   },
   "rihanna|we found love": {
    "found": "2026-10-24",
@@ -834,6 +874,12 @@
   "rod wave|dope girl": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "sabrina carpenter|espresso": {
+   "found": "2026-10-25",
+   "id": "eVli-tstM5E",
+   "kind": "video",
+   "source": "genius"
   },
   "sam fender|rein me in": {
    "found": "2026-10-20",
@@ -1021,6 +1067,16 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "the citizens of halloween|this is halloween": {
+   "checked": "2026-10-25",
+   "id": null
+  },
+  "the cranberries|zombie": {
+   "found": "2026-10-25",
+   "id": "6Ejga4kJUts",
+   "kind": "video",
+   "source": "genius"
+  },
   "the goo goo dolls|iris": {
    "checked": "2026-10-20",
    "id": null
@@ -1046,6 +1102,12 @@
   "the weeknd|blinding lights": {
    "found": "2026-10-24",
    "id": "4NRXx6U8ABQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "the weeknd|the hills": {
+   "found": "2026-10-25",
+   "id": "yzTuBuRdAyA",
    "kind": "video",
    "source": "genius"
   },
