@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:35:49+00:00",
+ "updated": "2026-10-26T14:16:03+00:00",
  "videos": {
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
@@ -515,6 +515,10 @@
    "kind": "visualizer",
    "source": "genius"
   },
+  "katseye|animal": {
+   "checked": "2026-10-26",
+   "id": null
+  },
   "kendrick lamar|bitch dont kill my vibe": {
    "found": "2026-10-20",
    "id": "GF8aaTu2kg0",
@@ -659,6 +663,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "megan thee stallion|thin ice": {
+   "checked": "2026-10-26",
+   "id": null
+  },
   "metallica|enter sandman": {
    "found": "2026-10-24",
    "id": "CD-E-LDc384",
@@ -765,6 +773,10 @@
   },
   "olivia dean|a couple minutes": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "olivia dean|baby steps": {
+   "checked": "2026-10-26",
    "id": null
   },
   "olivia dean|man i need": {
@@ -958,6 +970,12 @@
   "stella lefty|boston": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "steve lacy|nothing": {
+   "found": "2026-10-26",
+   "id": "PbD5tyvPycw",
+   "kind": "visualizer",
+   "source": "genius"
   },
   "steve lacy|the feeling": {
    "found": "2026-10-21",
