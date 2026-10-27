@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:16:03+00:00",
+ "updated": "2026-10-27T13:13:25+00:00",
  "videos": {
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
@@ -34,6 +34,10 @@
    "id": "FOJ4A4wixDg",
    "kind": "video",
    "source": "genius"
+  },
+  "ancient future technologies|corvara": {
+   "checked": "2026-10-27",
+   "id": null
   },
   "anotr|talk to you": {
    "checked": "2026-10-20",
@@ -943,6 +947,10 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "sleeptherapy|brown noise loop": {
+   "checked": "2026-10-27",
+   "id": null
+  },
   "sombr|12 to 12": {
    "found": "2026-10-20",
    "id": "cZgUiR31m-Y",
@@ -1000,6 +1008,12 @@
   "sza|broken clocks": {
    "found": "2026-10-20",
    "id": "zVc-K1kKkVk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sza|good days": {
+   "found": "2026-10-27",
+   "id": "2p3zZoraK9g",
    "kind": "video",
    "source": "genius"
   },
@@ -1149,12 +1163,20 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "white noise for babies|clean white noise loopable with no fade": {
+   "checked": "2026-10-27",
+   "id": null
+  },
   "white noise therapy|white noise 3 hour long": {
    "checked": "2026-10-20",
    "id": null
   },
   "white noise|white noise for babies": {
    "checked": "2026-10-21",
+   "id": null
+  },
+  "yoneiu|blissful sleep": {
+   "checked": "2026-10-27",
    "id": null
   },
   "young thug|digits": {
