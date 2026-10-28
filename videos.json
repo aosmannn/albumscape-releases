@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T13:13:25+00:00",
+ "updated": "2026-10-28T14:00:29+00:00",
  "videos": {
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
@@ -344,6 +344,12 @@
   "fleetwood mac|the chain": {
    "found": "2026-10-20",
    "id": "kBYHwH1Vb-c",
+   "kind": "video",
+   "source": "genius"
+  },
+  "florence the machine|dog days are over": {
+   "found": "2026-10-28",
+   "id": "iWOyfLBYtuU",
    "kind": "video",
    "source": "genius"
   },
@@ -990,6 +996,10 @@
    "id": "Qw20tg1v7Fc",
    "kind": "video",
    "source": "genius"
+  },
+  "stratus waves|lihe": {
+   "checked": "2026-10-28",
+   "id": null
   },
   "summer walker|body": {
    "found": "2026-10-20",
