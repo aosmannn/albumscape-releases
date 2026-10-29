@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:00:29+00:00",
+ "updated": "2026-10-29T14:18:43+00:00",
  "videos": {
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
@@ -152,6 +152,12 @@
   "coldplay|viva la vida": {
    "found": "2026-10-20",
    "id": "dvgZkm1xWPE",
+   "kind": "video",
+   "source": "genius"
+  },
+  "coldplay|yellow": {
+   "found": "2026-10-29",
+   "id": "yKNxeF4KMsY",
    "kind": "video",
    "source": "genius"
   },
@@ -338,6 +344,12 @@
   "fleetwood mac|dreams": {
    "found": "2026-10-20",
    "id": "Y3ywicffOj4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "fleetwood mac|go your own way": {
+   "found": "2026-10-29",
+   "id": "ozl3L9fhKtE",
    "kind": "video",
    "source": "genius"
   },
@@ -554,6 +566,12 @@
   "kettama|think of you": {
    "found": "2026-10-20",
    "id": "d2iWMT9lBb4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kings of leon|sex on fire": {
+   "found": "2026-10-29",
+   "id": "RF0HhrwIwp0",
    "kind": "video",
    "source": "genius"
   },
@@ -906,6 +924,12 @@
   "sam fender|rein me in": {
    "found": "2026-10-20",
    "id": "3triLkS0nq4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sam fender|seventeen going under": {
+   "found": "2026-10-29",
+   "id": "WAifgn2Cvo8",
    "kind": "video",
    "source": "genius"
   },
