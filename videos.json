@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-30T14:08:43+00:00",
+ "updated": "2026-10-31T13:40:40+00:00",
  "videos": {
+  "ac dc|highway to hell": {
+   "found": "2026-10-31",
+   "id": "l482T0yNkeo",
+   "kind": "video",
+   "source": "genius"
+  },
   "ac dc|thunderstruck": {
    "checked": "2026-10-24",
    "id": null
@@ -113,6 +119,16 @@
    "kind": "video",
    "source": "genius"
   },
+  "bigxthaplug|burn": {
+   "checked": "2026-10-31",
+   "id": null
+  },
+  "bigxthaplug|i like it": {
+   "found": "2026-10-31",
+   "id": "Bk6YI1qcGiQ",
+   "kind": "video",
+   "source": "genius"
+  },
   "billie eilish|ocean eyes": {
    "found": "2026-10-21",
    "id": "viimfQi_pUw",
@@ -167,6 +183,16 @@
   },
   "comehelpglo|onsra": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "corey hart|sunglasses at night": {
+   "found": "2026-10-31",
+   "id": "X2LTL8KgKv8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "creedence clearwater revival|bad moon rising": {
+   "checked": "2026-10-31",
    "id": null
   },
   "dave|raindance": {
@@ -345,6 +371,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "evanescence|bring me to life": {
+   "found": "2026-10-31",
+   "id": "3YxaaGgTQYM",
+   "kind": "video",
+   "source": "genius"
+  },
   "fleetwood mac|dreams": {
    "found": "2026-10-20",
    "id": "Y3ywicffOj4",
@@ -512,6 +544,12 @@
   "journey|dont stop believin": {
    "checked": "2026-10-25",
    "id": null
+  },
+  "justice|flower in a hurricane": {
+   "found": "2026-10-31",
+   "id": "5dPwBWvmcbQ",
+   "kind": "video",
+   "source": "genius"
   },
   "justin bieber|beauty and a beat": {
    "found": "2026-10-20",
@@ -705,6 +743,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "michael jackson|beat it": {
+   "found": "2026-10-31",
+   "id": "oRdxUFDoQe0",
+   "kind": "video",
+   "source": "genius"
+  },
   "michael jackson|billie jean": {
    "found": "2026-10-20",
    "id": "Zi_XLOBDo_Y",
@@ -768,6 +812,12 @@
   "morgan wallen|you proof": {
    "found": "2026-10-20",
    "id": "3CkLMG5NwUg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "nelly furtado|maneater": {
+   "found": "2026-10-31",
+   "id": "PLolag3YSYU",
    "kind": "video",
    "source": "genius"
   },
@@ -909,13 +959,29 @@
    "kind": "video",
    "source": "genius"
   },
+  "rihanna|disturbia": {
+   "found": "2026-10-31",
+   "id": "E1mU6h4Xdxc",
+   "kind": "video",
+   "source": "genius"
+  },
   "rihanna|dont stop the music": {
    "checked": "2026-10-25",
+   "id": null
+  },
+  "rihanna|s m": {
+   "checked": "2026-10-31",
    "id": null
   },
   "rihanna|we found love": {
    "found": "2026-10-24",
    "id": "tg00YEETFzg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "rockwell|somebodys watching me": {
+   "found": "2026-10-31",
+   "id": "7YvAYIJSSZY",
    "kind": "video",
    "source": "genius"
   },
@@ -1029,6 +1095,16 @@
    "kind": "video",
    "source": "genius"
   },
+  "steve miller band|abracadabra": {
+   "found": "2026-10-31",
+   "id": "tY8B0uQpwZs",
+   "kind": "video",
+   "source": "genius"
+  },
+  "stevie wonder|superstition": {
+   "checked": "2026-10-31",
+   "id": null
+  },
   "stratus waves|lihe": {
    "checked": "2026-10-28",
    "id": null
@@ -1068,6 +1144,18 @@
   "sza|snooze": {
    "found": "2026-10-20",
    "id": "LDY_XyxBu8A",
+   "kind": "video",
+   "source": "genius"
+  },
+  "talking heads|psycho killer": {
+   "found": "2026-10-31",
+   "id": "CJ54eImz88w",
+   "kind": "video",
+   "source": "genius"
+  },
+  "tame impala|dracula": {
+   "found": "2026-10-31",
+   "id": "xnP7qKxwzjg",
    "kind": "video",
    "source": "genius"
   },
@@ -1172,6 +1260,10 @@
    "id": "GCdwKhTtNNw",
    "kind": "video",
    "source": "genius"
+  },
+  "the rolling stones|paint it black": {
+   "checked": "2026-10-31",
+   "id": null
   },
   "the weeknd|blinding lights": {
    "found": "2026-10-24",
