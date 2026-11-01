@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:40:40+00:00",
+ "updated": "2026-11-01T14:18:22+00:00",
  "videos": {
   "ac dc|highway to hell": {
    "found": "2026-10-31",
@@ -35,6 +35,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "alice cooper|feed my frankenstein": {
+   "found": "2026-11-01",
+   "id": "NO2cHJmDkBg",
+   "kind": "video",
+   "source": "genius"
+  },
   "alyssa grace|bloodstream": {
    "found": "2026-10-20",
    "id": "FOJ4A4wixDg",
@@ -47,6 +53,10 @@
   },
   "andrew gold|spooky scary skeletons": {
    "checked": "2026-10-30",
+   "id": null
+  },
+  "angine de poitrine|sarniezz": {
+   "checked": "2026-11-01",
    "id": null
   },
   "anotr|talk to you": {
@@ -91,6 +101,18 @@
    "kind": "video",
    "source": "genius"
   },
+  "ava max|sweet but psycho": {
+   "found": "2026-11-01",
+   "id": "WXBHCQYxwr0",
+   "kind": "video",
+   "source": "genius"
+  },
+  "backstreet boys|everybody": {
+   "found": "2026-11-01",
+   "id": "6M6samPEMpM",
+   "kind": "video",
+   "source": "genius"
+  },
   "bad bunny|yonaguni": {
    "found": "2026-10-20",
    "id": "doLMt10ytHY",
@@ -129,15 +151,43 @@
    "kind": "video",
    "source": "genius"
   },
+  "billie eilish|bad guy": {
+   "found": "2026-11-01",
+   "id": "DyDfgMOUjCI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "billie eilish|bury a friend": {
+   "found": "2026-11-01",
+   "id": "HUHC9tYz8ik",
+   "kind": "video",
+   "source": "genius"
+  },
   "billie eilish|ocean eyes": {
    "found": "2026-10-21",
    "id": "viimfQi_pUw",
    "kind": "video",
    "source": "genius"
   },
+  "blue oyster cult|the reaper": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "bobby boris pickett|monster mash": {
    "checked": "2026-10-25",
    "id": null
+  },
+  "bow wow wow|i want candy": {
+   "found": "2026-11-01",
+   "id": "JoXVYSV4Xcs",
+   "kind": "video",
+   "source": "genius"
+  },
+  "britney spears|toxic": {
+   "found": "2026-11-01",
+   "id": "LOZuxwVk7TU",
+   "kind": "video",
+   "source": "genius"
   },
   "bryson tiller|dont": {
    "found": "2026-10-20",
@@ -157,8 +207,20 @@
    "kind": "video",
    "source": "genius"
   },
+  "catherine ohara|sallys song": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "china anne mcclain|calling all the monsters": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "chris stapleton|tennessee whiskey": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "classics iv|spooky": {
+   "checked": "2026-11-01",
    "id": null
   },
   "cloonee|good girl": {
@@ -201,9 +263,27 @@
    "kind": "video",
    "source": "genius"
   },
+  "david bowie|scary monsters": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "david guetta|sexy bitch": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "deadmau5|ghosts n stuff": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "disco lines|no broke boys": {
    "checked": "2026-10-24",
    "id": null
+  },
+  "dj jazzy jeff|a nightmare on my street": {
+   "found": "2026-11-01",
+   "id": "fVbaYFVUbLo",
+   "kind": "video",
+   "source": "genius"
   },
   "dj khaled|wild thoughts": {
    "found": "2026-10-20",
@@ -216,6 +296,10 @@
    "id": "rVD-zV6ctoM",
    "kind": "video",
    "source": "genius"
+  },
+  "donovan|season of the witch": {
+   "checked": "2026-11-01",
+   "id": null
   },
   "drake|best i ever had": {
    "checked": "2026-10-20",
@@ -325,6 +409,20 @@
    "kind": "video",
    "source": "genius"
   },
+  "duran duran|hungry like the wolf": {
+   "found": "2026-11-01",
+   "id": "oJL-lCzEXgI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "eagles|witchy woman": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "ed ivory|oogie boogies song": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "ed sheeran|castle on the hill": {
    "found": "2026-10-20",
    "id": "K0ibBPhiaG0",
@@ -368,6 +466,12 @@
   "ella langley|werent for the wind": {
    "found": "2026-10-20",
    "id": "U4NPZi2b0aQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "eurythmics|sweet dreams": {
+   "found": "2026-11-01",
+   "id": "qeMFqkcPYcg",
    "kind": "video",
    "source": "genius"
   },
@@ -493,6 +597,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "gowan|strange animal": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "gracie abrams|thats so true": {
    "checked": "2026-10-20",
    "id": null
@@ -520,6 +628,12 @@
   "huntr|golden": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "inxs|devil inside": {
+   "found": "2026-11-01",
+   "id": "hv_zJrO_ptk",
+   "kind": "video",
+   "source": "genius"
   },
   "j cole|power trip": {
    "found": "2026-10-20",
@@ -583,6 +697,12 @@
    "checked": "2026-10-26",
    "id": null
   },
+  "katy perry|dark horse": {
+   "found": "2026-11-01",
+   "id": "0KSOMA3QBU0",
+   "kind": "video",
+   "source": "genius"
+  },
   "kendrick lamar|bitch dont kill my vibe": {
    "found": "2026-10-20",
    "id": "GF8aaTu2kg0",
@@ -625,6 +745,12 @@
    "found": "2026-10-20",
    "id": "X9MDdMhcZVU",
    "kind": "visualizer",
+   "source": "genius"
+  },
+  "lady gaga|abracadabra": {
+   "found": "2026-11-01",
+   "id": "vBynw9Isr28",
+   "kind": "video",
    "source": "genius"
   },
   "lady gaga|die with a smile": {
@@ -727,6 +853,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "lvcrft|skeleton sam": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "mac miller|cinderella": {
    "found": "2026-10-20",
    "id": "FFamEq1PilQ",
@@ -821,6 +951,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "nina simone|i put a spell on you": {
+   "found": "2026-11-01",
+   "id": "WCjzNfJLHa0",
+   "kind": "video",
+   "source": "genius"
+  },
   "noah kahan|doors": {
    "checked": "2026-10-20",
    "id": null
@@ -856,6 +992,10 @@
    "id": "vU05Eksc_iM",
    "kind": "video",
    "source": "genius"
+  },
+  "oingo boingo|dead mans party": {
+   "checked": "2026-11-01",
+   "id": null
   },
   "olivia dean|a couple minutes": {
    "checked": "2026-10-20",
@@ -925,6 +1065,16 @@
    "kind": "video",
    "source": "genius"
   },
+  "olivia rodrigo|vampire": {
+   "found": "2026-11-01",
+   "id": "RlPNh_PBZb4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "outkast|draculas wedding": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "p nk|just give me a reason": {
    "found": "2026-10-20",
    "id": "OpQFFLBMEPI",
@@ -959,6 +1109,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "richard obrien|the time warp": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "rihanna|disturbia": {
    "found": "2026-10-31",
    "id": "E1mU6h4Xdxc",
@@ -976,6 +1130,12 @@
   "rihanna|we found love": {
    "found": "2026-10-24",
    "id": "tg00YEETFzg",
+   "kind": "video",
+   "source": "genius"
+  },
+  "rob zombie|dragula": {
+   "found": "2026-11-01",
+   "id": "EqQuihD0hoI",
    "kind": "video",
    "source": "genius"
   },
@@ -1007,6 +1167,14 @@
    "kind": "video",
    "source": "genius"
   },
+  "santana|evil ways": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "screamin jay hawkins|i put a spell on you": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "season 25|shottas": {
    "checked": "2026-10-20",
    "id": null
@@ -1022,6 +1190,16 @@
    "id": "fcnDmrtj6Sk",
    "kind": "video",
    "source": "genius"
+  },
+  "shakira|she wolf": {
+   "found": "2026-11-01",
+   "id": "booKP974B0k",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sheb wooley|the purple people eater": {
+   "checked": "2026-11-01",
+   "id": null
   },
   "sidhu moose wala|kaali hoodie": {
    "found": "2026-10-20",
@@ -1078,6 +1256,10 @@
    "id": "ofywN3NgGqY",
    "kind": "video",
    "source": "genius"
+  },
+  "sophie ellis bextor|murder on the dancefloor": {
+   "checked": "2026-11-01",
+   "id": null
   },
   "stella lefty|boston": {
    "checked": "2026-10-20",
@@ -1229,6 +1411,10 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "televisions greatest hits band|the munsters": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "the citizens of halloween|this is halloween": {
    "checked": "2026-10-25",
    "id": null
@@ -1265,6 +1451,10 @@
    "checked": "2026-10-31",
    "id": null
   },
+  "the searchers|love potion no 9": {
+   "checked": "2026-11-01",
+   "id": null
+  },
   "the weeknd|blinding lights": {
    "found": "2026-10-24",
    "id": "4NRXx6U8ABQ",
@@ -1287,9 +1477,25 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "thomas dolby|she blinded me with science": {
+   "found": "2026-11-01",
+   "id": "V83JR2IoI8k",
+   "kind": "video",
+   "source": "genius"
+  },
   "travis scott|goosebumps": {
    "found": "2026-10-20",
    "id": "Dst9gZkq1a8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "vic mizzy|the addams family main theme": {
+   "checked": "2026-11-01",
+   "id": null
+  },
+  "warren zevon|werewolves of london": {
+   "found": "2026-11-01",
+   "id": "qae25976UgA",
    "kind": "video",
    "source": "genius"
   },
@@ -1308,6 +1514,12 @@
   "white noise|white noise for babies": {
    "checked": "2026-10-21",
    "id": null
+  },
+  "whodini|freaks come out at night": {
+   "found": "2026-11-01",
+   "id": "FxwrLLlQwBw",
+   "kind": "video",
+   "source": "genius"
   },
   "yoneiu|blissful sleep": {
    "checked": "2026-10-27",
