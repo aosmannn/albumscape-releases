@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T14:18:22+00:00",
+ "updated": "2026-11-02T17:06:02+00:00",
  "videos": {
   "ac dc|highway to hell": {
    "found": "2026-10-31",
@@ -541,6 +541,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "fontaines d c|starburster": {
+   "found": "2026-11-02",
+   "id": "KHocVRUlvkk",
+   "kind": "video",
+   "source": "genius"
+  },
   "fontaines d c|tongue": {
    "found": "2026-10-20",
    "id": "5OsIwKHppho",
@@ -599,6 +605,10 @@
   },
   "gowan|strange animal": {
    "checked": "2026-11-01",
+   "id": null
+  },
+  "gracie abrams|here you come there you go": {
+   "checked": "2026-11-02",
    "id": null
   },
   "gracie abrams|thats so true": {
@@ -860,6 +870,12 @@
   "mac miller|cinderella": {
    "found": "2026-10-20",
    "id": "FFamEq1PilQ",
+   "kind": "video",
+   "source": "genius"
+  },
+  "mariah carey|all i want for christmas is you": {
+   "found": "2026-11-02",
+   "id": "yXQViqx6GMY",
    "kind": "video",
    "source": "genius"
   },
@@ -1496,6 +1512,12 @@
   "warren zevon|werewolves of london": {
    "found": "2026-11-01",
    "id": "qae25976UgA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "wham|last christmas": {
+   "found": "2026-11-02",
+   "id": "E8gmARGvPlI",
    "kind": "video",
    "source": "genius"
   },
