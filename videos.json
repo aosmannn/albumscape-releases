@@ -1,6 +1,10 @@
 {
- "updated": "2026-11-02T17:06:02+00:00",
+ "updated": "2026-11-03T15:06:52+00:00",
  "videos": {
+  "a s kullar|3 times": {
+   "checked": "2026-11-03",
+   "id": null
+  },
   "ac dc|highway to hell": {
    "found": "2026-10-31",
    "id": "l482T0yNkeo",
@@ -1097,6 +1101,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "partynextdoor|somebody loves me": {
+   "found": "2026-11-03",
+   "id": "7MJxsH9KnQ4",
+   "kind": "video",
+   "source": "genius"
+  },
   "post malone|i had some help": {
    "found": "2026-10-20",
    "id": "4QIZE708gJ4",
@@ -1430,6 +1440,12 @@
   "televisions greatest hits band|the munsters": {
    "checked": "2026-11-01",
    "id": null
+  },
+  "tems|what you need": {
+   "found": "2026-11-03",
+   "id": "A__GXZsG3hk",
+   "kind": "video",
+   "source": "genius"
   },
   "the citizens of halloween|this is halloween": {
    "checked": "2026-10-25",
