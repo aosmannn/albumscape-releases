@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:06:52+00:00",
+ "updated": "2026-11-04T15:25:40+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -74,6 +74,12 @@
   "arctic monkeys|do i wanna know": {
    "found": "2026-10-20",
    "id": "bpOSxM0rNPM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "arctic monkeys|fluorescent adolescent": {
+   "found": "2026-11-04",
+   "id": "ma9I9VBKPiw",
    "kind": "video",
    "source": "genius"
   },
@@ -1107,6 +1113,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "pinkpantheress|stateside": {
+   "found": "2026-11-04",
+   "id": "vQ-a4VkeMZE",
+   "kind": "video",
+   "source": "genius"
+  },
   "post malone|i had some help": {
    "found": "2026-10-20",
    "id": "4QIZE708gJ4",
@@ -1242,6 +1254,12 @@
   "sienna spiro|great expectation": {
    "found": "2026-10-20",
    "id": "B452TVVco2Q",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sienna spiro|material lover": {
+   "found": "2026-11-04",
+   "id": "EZOiy1-cnxM",
    "kind": "video",
    "source": "genius"
   },
