@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T15:27:13+00:00",
+ "updated": "2026-11-06T15:02:33+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -465,6 +465,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "ed sheeran|the a team": {
+   "found": "2026-11-06",
+   "id": "UAWcs5H-qgQ",
+   "kind": "video",
+   "source": "genius"
+  },
   "ella langley|be her": {
    "found": "2026-10-20",
    "id": "Dg47eNL_Usw",
@@ -581,6 +587,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "foo fighters|everlong": {
+   "found": "2026-11-06",
+   "id": "eBG7P-K-r1Y",
+   "kind": "video",
+   "source": "genius"
+  },
   "fuerza regida|marlboro rojo": {
    "found": "2026-10-24",
    "id": "ddkbVYutRXA",
@@ -679,6 +691,12 @@
    "checked": "2026-10-20",
    "id": null
   },
+  "jeezy|leave you alone": {
+   "found": "2026-11-06",
+   "id": "3B3EgW5zvKU",
+   "kind": "video",
+   "source": "genius"
+  },
   "jhene aiko|so good": {
    "checked": "2026-10-20",
    "id": null
@@ -756,6 +774,12 @@
   "kettama|think of you": {
    "found": "2026-10-20",
    "id": "d2iWMT9lBb4",
+   "kind": "video",
+   "source": "genius"
+  },
+  "kingfishr|the sun will never settle": {
+   "found": "2026-11-06",
+   "id": "qIkN02ZS2K8",
    "kind": "video",
    "source": "genius"
   },
@@ -1093,6 +1117,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "olivia rodrigo|take me home": {
+   "found": "2026-11-06",
+   "id": "uXymCnWk9LI",
+   "kind": "video",
+   "source": "genius"
+  },
   "olivia rodrigo|the cure": {
    "found": "2026-10-20",
    "id": "B402rKl4bUg",
@@ -1210,6 +1240,12 @@
   "sam fender|seventeen going under": {
    "found": "2026-10-29",
    "id": "WAifgn2Cvo8",
+   "kind": "video",
+   "source": "genius"
+  },
+  "sam fender|you cant always get what you want": {
+   "found": "2026-11-06",
+   "id": "qVbu5FLCvd0",
    "kind": "video",
    "source": "genius"
   },
@@ -1506,6 +1542,12 @@
   "the neighbourhood|sweater weather": {
    "found": "2026-10-20",
    "id": "GCdwKhTtNNw",
+   "kind": "video",
+   "source": "genius"
+  },
+  "the pogues|fairytale of new york": {
+   "found": "2026-11-06",
+   "id": "j9jbdgZidu8",
    "kind": "video",
    "source": "genius"
   },
