@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:02:33+00:00",
+ "updated": "2026-11-07T14:01:22+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -493,6 +493,16 @@
    "kind": "video",
    "source": "genius"
   },
+  "elton john|rocket man": {
+   "found": "2026-11-07",
+   "id": "DtVBCG6ThDk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "esteoeste|sobre las nubes": {
+   "checked": "2026-11-07",
+   "id": null
+  },
   "eurythmics|sweet dreams": {
    "found": "2026-11-01",
    "id": "qeMFqkcPYcg",
@@ -632,6 +642,10 @@
    "id": "rP09GUQFDFk",
    "kind": "video",
    "source": "genius"
+  },
+  "future|ya hit": {
+   "checked": "2026-11-07",
+   "id": null
   },
   "gowan|strange animal": {
    "checked": "2026-11-01",
@@ -811,11 +825,37 @@
    "kind": "video",
    "source": "genius"
   },
+  "latedrift|canyon": {
+   "checked": "2026-11-07",
+   "id": null
+  },
   "lewis capaldi|someone you loved": {
    "found": "2026-10-21",
    "id": "zABLecsR5UE",
    "kind": "video",
    "source": "genius"
+  },
+  "lil baby|aint goin": {
+   "found": "2026-11-07",
+   "id": "YC6ar8RLxsw",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|all my partnas": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|all us": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|be the one": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|burnt shit": {
+   "checked": "2026-11-07",
+   "id": null
   },
   "lil baby|dead fresh": {
    "found": "2026-10-20",
@@ -826,6 +866,12 @@
   "lil baby|freestyle": {
    "found": "2026-10-20",
    "id": "MHryuYVyHhk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|from the back": {
+   "found": "2026-11-07",
+   "id": "w2VVmm-T_HU",
    "kind": "video",
    "source": "genius"
   },
@@ -847,8 +893,38 @@
    "kind": "video",
    "source": "genius"
   },
+  "lil baby|in your head": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|keep goin": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|life of the party": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|like a brat": {
+   "checked": "2026-11-07",
+   "id": null
+  },
   "lil baby|low down": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "lil baby|mr do something": {
+   "found": "2026-11-07",
+   "id": "3EeJub4m1-E",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|my side": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|rareform": {
+   "checked": "2026-11-07",
    "id": null
   },
   "lil baby|right on": {
@@ -860,6 +936,22 @@
   "lil baby|sum 2 prove": {
    "found": "2026-10-20",
    "id": "xOjy0tL5EuA",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|televised": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "lil baby|top uh it": {
+   "found": "2026-11-07",
+   "id": "x90MJ_-oRhI",
+   "kind": "video",
+   "source": "genius"
+  },
+  "lil baby|your fault": {
+   "found": "2026-11-07",
+   "id": "WsR_5Ba_atY",
    "kind": "video",
    "source": "genius"
   },
@@ -1315,6 +1407,24 @@
   },
   "silva bumpa|on 2nite": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "skepta|currency": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "skepta|outside": {
+   "checked": "2026-11-07",
+   "id": null
+  },
+  "skepta|pandoras box": {
+   "found": "2026-11-07",
+   "id": "e2NWdzaYots",
+   "kind": "video",
+   "source": "genius"
+  },
+  "skepta|secrets of patriarchy": {
+   "checked": "2026-11-07",
    "id": null
   },
   "sleeptherapy|brown noise loop": {
