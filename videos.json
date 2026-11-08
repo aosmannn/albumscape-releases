@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:01:22+00:00",
+ "updated": "2026-11-08T14:18:56+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -763,6 +763,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "kelly clarkson|underneath the tree": {
+   "found": "2026-11-08",
+   "id": "EM2Fnp_qnE8",
+   "kind": "video",
+   "source": "genius"
+  },
   "kendrick lamar|bitch dont kill my vibe": {
    "found": "2026-10-20",
    "id": "GF8aaTu2kg0",
@@ -1357,6 +1363,12 @@
    "found": "2026-10-20",
    "id": "t7bQwwqW-Hc",
    "kind": "visualizer",
+   "source": "genius"
+  },
+  "shakin stevens|merry christmas everyone": {
+   "found": "2026-11-08",
+   "id": "N-PyWfVkjZc",
+   "kind": "video",
    "source": "genius"
   },
   "shakira|dai dai": {
