@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:18:56+00:00",
+ "updated": "2026-11-09T17:28:18+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -193,6 +193,10 @@
   },
   "bobby boris pickett|monster mash": {
    "checked": "2026-10-25",
+   "id": null
+  },
+  "bobby helms|jingle bell rock": {
+   "checked": "2026-11-09",
    "id": null
   },
   "bow wow wow|i want candy": {
@@ -496,6 +500,12 @@
   "elton john|rocket man": {
    "found": "2026-11-07",
    "id": "DtVBCG6ThDk",
+   "kind": "video",
+   "source": "genius"
+  },
+  "elton john|step into christmas": {
+   "found": "2026-11-09",
+   "id": "IbRtGMm96F8",
    "kind": "video",
    "source": "genius"
   },
@@ -809,6 +819,10 @@
    "kind": "video",
    "source": "genius"
   },
+  "kings of leon|wait for me": {
+   "checked": "2026-11-09",
+   "id": null
+  },
   "kodak black|no flockin": {
    "checked": "2026-10-20",
    "id": null
@@ -1013,6 +1027,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "mack geiger|dying in this house": {
+   "found": "2026-11-09",
+   "id": "9A3HjZGbu38",
+   "kind": "video",
+   "source": "genius"
+  },
   "mariah carey|all i want for christmas is you": {
    "found": "2026-11-02",
    "id": "yXQViqx6GMY",
@@ -1026,6 +1046,12 @@
   "metallica|enter sandman": {
    "found": "2026-10-24",
    "id": "CD-E-LDc384",
+   "kind": "video",
+   "source": "genius"
+  },
+  "michael buble|its beginning to look a lot like christmas": {
+   "found": "2026-11-09",
+   "id": "0bhsXykXxfg",
    "kind": "video",
    "source": "genius"
   },
@@ -1386,6 +1412,12 @@
   "sheb wooley|the purple people eater": {
    "checked": "2026-11-01",
    "id": null
+  },
+  "sia|snowman": {
+   "found": "2026-11-09",
+   "id": "gset79KMmt0",
+   "kind": "video",
+   "source": "genius"
   },
   "sidhu moose wala|kaali hoodie": {
    "found": "2026-10-20",
