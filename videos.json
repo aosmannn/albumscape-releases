@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T15:36:42+00:00",
+ "updated": "2026-11-11T15:12:11+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -655,6 +655,10 @@
   },
   "future|ya hit": {
    "checked": "2026-11-07",
+   "id": null
+  },
+  "gordon lightfoot|the wreck of the edmund fitzgerald": {
+   "checked": "2026-11-11",
    "id": null
   },
   "gowan|strange animal": {
@@ -1660,6 +1664,12 @@
   "televisions greatest hits band|the munsters": {
    "checked": "2026-11-01",
    "id": null
+  },
+  "temper city|self aware": {
+   "found": "2026-11-11",
+   "id": "mh4AQkw4Jjc",
+   "kind": "video",
+   "source": "genius"
   },
   "tems|what you need": {
    "found": "2026-11-03",
