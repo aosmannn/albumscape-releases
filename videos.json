@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:12:11+00:00",
+ "updated": "2026-11-12T16:00:39+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -853,6 +853,12 @@
    "checked": "2026-11-07",
    "id": null
   },
+  "leona lewis|one more sleep": {
+   "found": "2026-11-12",
+   "id": "j-_1-uJ6Ml4",
+   "kind": "video",
+   "source": "genius"
+  },
   "lewis capaldi|someone you loved": {
    "found": "2026-10-21",
    "id": "zABLecsR5UE",
@@ -1035,6 +1041,12 @@
    "found": "2026-11-09",
    "id": "9A3HjZGbu38",
    "kind": "video",
+   "source": "genius"
+  },
+  "mack geiger|string by": {
+   "found": "2026-11-12",
+   "id": "6UeVVloQlhE",
+   "kind": "visualizer",
    "source": "genius"
   },
   "mariah carey|all i want for christmas is you": {
@@ -1478,6 +1490,12 @@
   "sleeptherapy|brown noise loop": {
    "checked": "2026-10-27",
    "id": null
+  },
+  "snow patrol|chasing cars": {
+   "found": "2026-11-12",
+   "id": "GemKqzILV4w",
+   "kind": "video",
+   "source": "genius"
   },
   "sombr|12 to 12": {
    "found": "2026-10-20",
