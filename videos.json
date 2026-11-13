@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:00:39+00:00",
+ "updated": "2026-11-13T15:24:30+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -100,6 +100,12 @@
   "ariana grande|into you": {
    "found": "2026-10-20",
    "id": "1ekZEVeXwek",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ariana grande|santa tell me": {
+   "found": "2026-11-13",
+   "id": "nlR0MkrRklg",
    "kind": "video",
    "source": "genius"
   },
