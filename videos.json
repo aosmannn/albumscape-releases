@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:24:30+00:00",
+ "updated": "2026-11-14T14:10:04+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -211,6 +211,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "brenda lee|rockin around the christmas tree": {
+   "found": "2026-11-14",
+   "id": "TFsZy9t-qDc",
+   "kind": "video",
+   "source": "genius"
+  },
   "britney spears|toxic": {
    "found": "2026-11-01",
    "id": "LOZuxwVk7TU",
@@ -242,6 +248,12 @@
   "china anne mcclain|calling all the monsters": {
    "checked": "2026-11-01",
    "id": null
+  },
+  "chris brown|yo": {
+   "found": "2026-11-14",
+   "id": "yn_6LC4loY8",
+   "kind": "video",
+   "source": "genius"
   },
   "chris stapleton|tennessee whiskey": {
    "checked": "2026-10-20",
@@ -322,6 +334,12 @@
   "don toliver|e85": {
    "found": "2026-10-20",
    "id": "rVD-zV6ctoM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "don toliver|party with the boys": {
+   "found": "2026-11-14",
+   "id": "fPmllLdiZCQ",
    "kind": "video",
    "source": "genius"
   },
@@ -1742,6 +1760,12 @@
   "the rolling stones|paint it black": {
    "checked": "2026-10-31",
    "id": null
+  },
+  "the ronettes|sleigh ride": {
+   "found": "2026-11-14",
+   "id": "DkXIJe8CaIc",
+   "kind": "video",
+   "source": "genius"
   },
   "the searchers|love potion no 9": {
    "checked": "2026-11-01",
