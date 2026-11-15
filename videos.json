@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T14:10:04+00:00",
+ "updated": "2026-11-15T14:48:00+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -65,6 +65,10 @@
   },
   "andrew gold|spooky scary skeletons": {
    "checked": "2026-10-30",
+   "id": null
+  },
+  "andy williams|its the most wonderful time of the year": {
+   "checked": "2026-11-15",
    "id": null
   },
   "angine de poitrine|sarniezz": {
@@ -140,6 +144,12 @@
   "bad bunny|yonaguni": {
    "found": "2026-10-20",
    "id": "doLMt10ytHY",
+   "kind": "video",
+   "source": "genius"
+  },
+  "band aid|do they know its christmas": {
+   "found": "2026-11-15",
+   "id": "RH-xd5bPKTA",
    "kind": "video",
    "source": "genius"
   },
@@ -254,6 +264,10 @@
    "id": "yn_6LC4loY8",
    "kind": "video",
    "source": "genius"
+  },
+  "chris rea|driving home for christmas": {
+   "checked": "2026-11-15",
+   "id": null
   },
   "chris stapleton|tennessee whiskey": {
    "checked": "2026-10-20",
@@ -478,6 +492,12 @@
   "ed sheeran|galway girl": {
    "found": "2026-10-25",
    "id": "87gWaABqGYs",
+   "kind": "video",
+   "source": "genius"
+  },
+  "ed sheeran|merry christmas": {
+   "found": "2026-11-15",
+   "id": "Q_yuO8UNGmY",
    "kind": "video",
    "source": "genius"
   },
@@ -751,6 +771,10 @@
   },
   "jhene aiko|so good": {
    "checked": "2026-10-20",
+   "id": null
+  },
+  "jose feliciano|feliz navidad": {
+   "checked": "2026-11-15",
    "id": null
   },
   "journey|dont stop believin": {
