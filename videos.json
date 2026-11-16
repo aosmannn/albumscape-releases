@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T14:48:00+00:00",
+ "updated": "2026-11-16T17:00:59+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -796,6 +796,12 @@
   "justin bieber|daisies": {
    "checked": "2026-10-20",
    "id": null
+  },
+  "justin bieber|mistletoe": {
+   "found": "2026-11-16",
+   "id": "LUjn3RpkcKY",
+   "kind": "video",
+   "source": "genius"
   },
   "karan aujla|ashke": {
    "checked": "2026-10-20",
