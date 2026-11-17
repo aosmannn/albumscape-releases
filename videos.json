@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:00:59+00:00",
+ "updated": "2026-11-17T16:54:24+00:00",
  "videos": {
   "a s kullar|3 times": {
    "checked": "2026-11-03",
@@ -566,6 +566,12 @@
   "evanescence|bring me to life": {
    "found": "2026-10-31",
    "id": "3YxaaGgTQYM",
+   "kind": "video",
+   "source": "genius"
+  },
+  "feist|my moon my man": {
+   "found": "2026-11-17",
+   "id": "ltYq-jalYm0",
    "kind": "video",
    "source": "genius"
   },
@@ -1403,6 +1409,12 @@
    "kind": "video",
    "source": "genius"
   },
+  "riley green|worst way": {
+   "found": "2026-11-17",
+   "id": "OkktfeAR-Rk",
+   "kind": "video",
+   "source": "genius"
+  },
   "rob zombie|dragula": {
    "found": "2026-11-01",
    "id": "EqQuihD0hoI",
@@ -1482,6 +1494,12 @@
   "sheb wooley|the purple people eater": {
    "checked": "2026-11-01",
    "id": null
+  },
+  "shubh|never left": {
+   "found": "2026-11-17",
+   "id": "zdz8swOQUqw",
+   "kind": "video",
+   "source": "genius"
   },
   "sia|snowman": {
    "found": "2026-11-09",
